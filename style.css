@@ -5,17 +5,52 @@ body{
     box-sizing: border-box;
     color: #333;
 }
-.img-div{
-    max-width: 100%;
+
+main{
+    margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+.image{
+    width: 80%;
     display: block;
     height: auto;
     margin: 0 auto;
+    background-position: center;
+}
+#img-div{
+    background: white;
+    padding: 20px;
+     margin: 0px;
+     background-position: center;
+    
 
 }
 .tribute-info{
-    
+
 }
 
 #title {
     text-align: center;
 }
+
+main{
+
+}
+
+#information{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+  }
+
